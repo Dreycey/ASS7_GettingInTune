@@ -1,7 +1,7 @@
 /*
  * test_sin.c
  *
- *  Created on: Apr 18, 2022
+ *  Created on: Apr 16, 2022
  *      Author: dreyceyalbin
  */
 
@@ -11,7 +11,6 @@
 /*	OTHER FILES TO BE INCLUDED	*/
 #include "fp_sin.h"
 #include "math.h"
-//#include <stdio.h>
 
 // Defined in header
 void test_sin() {
