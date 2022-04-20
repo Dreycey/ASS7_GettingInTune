@@ -6,7 +6,7 @@ This repository contains the source code for the "Getting In Tune" HW. Outlined 
 * Sin function - this was computed soley with integer math. The following are found: "max_err=1 sum_sq=9280" (within range)
 * Analog Output (DAC.c/h) - works as expected with a 48000 Hz sampling rate. 
 * Analog Input (DAC.c/h) - works as expected with a 48000 Hz sampling rate. 
-* oscilloscope validation - 
+* oscilloscope validation - BELOW
 
 # Oscilloscope
 
